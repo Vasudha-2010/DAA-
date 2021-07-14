@@ -30,6 +30,7 @@ int main()
                 break;
             }
         }
+        cout<<"Number of comparisons : "<<i;
         if(found==0)
         {
             cout<<"Element not found!!";

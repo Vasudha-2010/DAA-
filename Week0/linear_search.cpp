@@ -27,6 +27,7 @@ int main()
             {
                 found++;
                 cout<<"Element found at position : "<<i+1;
+                i++;
                 break;
             }
         }
